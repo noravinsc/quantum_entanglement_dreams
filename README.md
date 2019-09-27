@@ -13,10 +13,10 @@ Please do this project as followes:
 
 5.You can see the example of "example_20190927_qingdao" in the file folder dreams_picture and dreams_showed.
 
-My future work and confidence to this project:
+Our future work and confidence to this project:
 
-1.In my future works I will do some statistic works to the picture informations to study whether the picture that just showed in your dream can appear in other people's dream or true life, to study whether the dreams has some links between our ture world, and what is the link to the end, and to study whether the link can show some feature that similar to the theory quantum entanglement.
+1.In our future works we will do some statistic works to the picture informations to study whether the picture that just showed in your dream can appear in other people's dream or true life, to study whether the dreams has some links between our ture world, and what is the link to the end, and to study whether the link can show some feature that similar to the theory quantum entanglement.
 
 2.I think this project is amazing and interesting , and this project has extraordinary significance to everyone of us, and everyone of us can join this big project without any complex requirements, and every one of us can do a very big contribute to our world.
 
-3.Do you want join in this big project? Do you interested in this big project? If the answer is yes, join in! Thank you!
+3.Do you want to join in this big project? Do you interested in this big project? If the answer is yes, join in! Thank you!
