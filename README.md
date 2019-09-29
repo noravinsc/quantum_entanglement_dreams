@@ -18,3 +18,7 @@ Our future work and confidence to this project:
 2.I think this project is amazing and interesting , and this project has extraordinary significance to everyone of us, and everyone of us can join this big project without any complex requirements, and every one of us can do a very big contribute to our world.
 
 3.Do you want to join in this big project? Do you interested in this big project? If the answer is yes, join in! Thank you!
+
+Welcome to ask questions or communicate with the project manager by email:
+email:1060817092@qq.com
+project manager:liuchunwei
