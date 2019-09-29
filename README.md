@@ -1,7 +1,5 @@
 # quantum_entanglement_dreams
-A big open source and interesting and worthy project to all of us, hope that every one of us can do this project seriously. This project's target is to analysis the link between our dream and our world, and to see wether the link between our dream and our world conform to the quantum entanglement theory.
-
-Please do this project as followes:
+A big open source and interesting and worthy project to all of us, hope that every one of us can do this project seriously. This project's target is to analysis the link between our dream and our world, and to see wether the link between our dream and our world conform to the quantum entanglement theory.In this project you didn't need too much knowledge about software or computer, what you need is to "draw pictures", write texts, and upload the pictures and texts according to the requirements as follows:
 
 1.You must do this seriously.
 
